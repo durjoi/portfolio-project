@@ -9,6 +9,7 @@ body {
     display: flex;
     background-image: url('/portfolio-project/images/top-banner.png');
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 
 .hero-banner__content {
@@ -43,9 +44,6 @@ body {
     font-weight: 700;
 }
 
-.hero-banner__img {
-
-}
 .hero-banner__img img {
     width: 100%;
 }
@@ -56,3 +54,10 @@ body {
     padding-right: 10%;
 }
 
+.dream-big {
+    display: flex;
+    background-image: url('/portfolio-project/images/dream-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 100px;
+}
