@@ -10,7 +10,7 @@ body {
 
 .hero-banner {
     
-    background-image: url('/images/top-banner.png');
+    background-image: url('/portfolio-project/images/top-banner.png');
     background-repeat: no-repeat;
     margin-bottom: 100px;
 }
