@@ -59,7 +59,7 @@ body {
 
 .dream-big {
     display: flex;
-    background-image: url('/images/dream-bg.png');
+    background-image: url('/portfolio-project/images/dream-bg.png');
     background-repeat: no-repeat;
     background-position: right;
     margin-bottom: 100px;
@@ -68,7 +68,7 @@ body {
 .experience-area {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url('/images/exp-bg.png');
+    background-image: url('/portfolio-project/images/exp-bg.png');
     background-repeat: no-repeat;
     background-position: left;
 }
